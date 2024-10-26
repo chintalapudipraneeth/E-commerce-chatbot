@@ -1,0 +1,1 @@
+print("This is a placeholder for the main function. You can replace this with your own code.")
